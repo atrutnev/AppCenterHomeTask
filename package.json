@@ -1,0 +1,16 @@
+{
+  "name": "appcenterhometask",
+  "version": "1.0.0",
+  "description": "Home task for AppCenter project",
+  "main": "QueueBuildsAndMonitor.ts",
+  "scripts": {
+    "test": "console.log(\"Hello World!\")"
+  },
+  "author": "Alexander Trutnev",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "axios": "^0.20.0",
+    "typescript": "^4.0.3"
+  }
+}
